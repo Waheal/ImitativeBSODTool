@@ -89,6 +89,10 @@ namespace ImitativeBSODTool
                     timer2.Start();
                 }
             }
+            else
+            {
+                MessageBox.Show("本软件仅供学习&交流，请勿用于非法用途！\n免责声明：虽然此软件对于电脑无任何损害，但是使用此软件间接造成的人身/财产损失，作者概不负责！");
+            }
             IsLoaded = true;
         }
 
