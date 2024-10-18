@@ -133,7 +133,7 @@ namespace ImitativeBSODTool
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::ImitativeBSODTool.Properties.Resources._24__1fbd8927a9f57654d204624cd65bf386_6352b97d3f6aeae5de1155a99104f0ae;
+            this.pictureBox1.Image = global::ImitativeBSODTool.Properties.Resources.QRCode;
             this.pictureBox1.Location = new System.Drawing.Point(198, 666);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(175, 175);
